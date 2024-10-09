@@ -2,7 +2,7 @@ Hi there 👋, I'm Shreekant
 .NET full stack Developer | Problem Solver | Data science |AWS Certified
 
 Welcome to my GitHub profile! I'm passionate about technology with a focus on creating efficient, scalable, and secure backend systems. 
-I enjoy working on everything from enterprise-level applications to personal side projects, leveraging modern .NET & other technologies.
+I enjoy working on everything from enterprise-level applications to personal side projects, leveraging modern .NET & Other technologies.
 
 🛠️ Technologies & Tools
 - .Net, C#, SQL, AWS, Angular, Nodejs, Typescript, Datascience
